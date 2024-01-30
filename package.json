@@ -1,5 +1,5 @@
 {
-  "name": "HATSUNE-MIKU-ULTRA",
+  "name": "BREAD-BOT",
   "version": "1.0.0",
   "description": "subscribe to the miku-bot channel",
   "main": "index.js",
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA",
   "author": {
-    "name": "OFC-YOVANI"
+    "name": "HOOTIE_SC"
   },
   "repository": {
     "type": "git",
